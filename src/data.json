@@ -1,0 +1,183 @@
+[{
+        "title": "Star Wars",
+        "upVotes": 5,
+        "date": "Mar 12 2020 10:05:00 AM"
+    },
+    {
+        "title": "Reservoir Dogs",
+        "upVotes": 1,
+        "date": "Mar 11 2020 12:00:00 AM"
+    },
+    {
+        "title": "Braveheart",
+        "upVotes": 5,
+        "date": "Jan 28 2020 11:09:01 AM"
+    },
+    {
+        "title": "Requiem for a Dream",
+        "upVotes": 8,
+        "date": "Feb 22 2020 01:45:45 PM"
+    },
+    {
+        "title": "Amélie",
+        "upVotes": 16,
+        "date": "Jan 28 2020 11:09:01 AM"
+    },
+    {
+        "title": "A Clockwork Orange",
+        "upVotes": 9,
+        "date": "Sep 23 2020 02:09:20 PM"
+    },
+    {
+        "title": "Taxi Driver",
+        "upVotes": 10,
+        "date": "Aug 31 2020 08:45:38 AM"
+    },
+    {
+        "title": "Like Stars on Earth",
+        "upVotes": 20,
+        "date": "Jan 28 2020 09:29:01 AM"
+    },
+
+    {
+        "title": "Lawrence of Arabia",
+        "upVotes": 22,
+        "date": "Jan 28 2020 11:09:01 AM"
+    },
+    {
+        "title": "Spirited Away",
+        "upVotes": 21,
+        "date": "Feb 22 2020 01:45:45 PM"
+    },
+    {
+        "title": "Goodfellas",
+        "upVotes": 10,
+        "date": "Jul 21 2020 09:35:35 AM"
+    },
+    {
+        "title": "The Matrix",
+        "upVotes": 19,
+        "date": "Dec 22 2020 10:27:23 PM"
+    },
+    {
+        "title": "Seven Samurai",
+        "upVotes": 54,
+        "date": "Dec 12 2020 02:19:11 PM"
+    },
+
+    {
+        "title": "Star Wars: Episode IV - A New Hope",
+        "upVotes": 97,
+        "date": "Jul 10 2020 09:35:35 AM"
+    },
+    {
+        "title": "The Silence of the Lambs",
+        "upVotes": 11,
+        "date": "Oct 15 2020 10:56:20 AM"
+    },
+    {
+        "title": "Inception",
+        "upVotes": 10,
+        "date": "Jan 28 2020 11:09:01 AM"
+    },
+    {
+        "title": "Double Indemnity",
+        "upVotes": 18,
+        "date": "Feb 22 2020 01:45:45 PM"
+    },
+    {
+        "title": "It's a Wonderful Life",
+        "upVotes": 16,
+        "date": "Oct 23 2020 03:23:41 PM"
+    },
+    {
+        "title": "One Flew Over the Cuckoo's Nest",
+        "upVotes": 75,
+        "date": "Jan 28 2020 11:09:01 AM"
+    },
+    {
+        "title": "Life Is Beautiful",
+        "upVotes": 17,
+        "date": "Dec 12 2020 02:19:11 PM"
+    },
+    {
+        "title": "The Usual Suspects",
+        "upVotes": 15,
+        "date": "Jun 18 2020 07:22:33 PM"
+    },
+    {
+        "title": "Léon: The Professional",
+        "upVotes": 14,
+        "date": "May 17 2020 05:12:31 PM"
+    },
+    {
+        "title": "American History X",
+        "upVotes": 18,
+        "date": "Feb 22 2020 01:45:45 PM"
+    },
+    {
+        "title": "Pulp Fiction",
+        "upVotes": 18,
+        "date": "Jan 12 2020 11:09:01 AM"
+    },
+    {
+        "title": "The Good, the Bad and the Ugly",
+        "upVotes": 19,
+        "date": "Jan 20 2020 01:59:01 AM"
+    },
+    {
+        "title": "Fight Club",
+        "upVotes": 34,
+        "date": "Jan 21 2020 11:09:01 AM"
+    },
+    {
+        "title": "The Lord of the Rings: The Fellowship of the Ring",
+        "upVotes": 20,
+        "date": "Jan 26 2020 11:09:01 AM"
+    },
+    {
+        "title": "Star Wars: Episode V - The Empire Strikes Back",
+        "upVotes": 80,
+        "date": "Jan 22 2020 11:09:01 AM"
+    },
+    {
+        "title": "Forrest Gump",
+        "upVotes": 94,
+        "date": "Jan 28 2020 11:09:01 AM"
+    },
+    {
+        "title": "The Dark Knight Rises",
+        "upVotes": 22,
+        "date": "May 17 2020 05:12:31 PM"
+    },
+    {
+        "title": "Princess Mononoke",
+        "upVotes": 17,
+        "date": "Dec 12 2020 02:19:11 PM"
+    },
+    {
+        "title": "Vertigo",
+        "upVotes": 18,
+        "date": "Feb 22 2020 01:45:45 PM"
+    },
+    {
+        "title": "Aliens",
+        "upVotes": 86,
+        "date": "Oct 23 2020 03:23:41 PM"
+    },
+    {
+        "title": "North by Northwest",
+        "upVotes": 23,
+        "date": "May 17 2020 05:12:31 PM"
+    },
+    {
+        "title": "Citizen Kane",
+        "upVotes": 84,
+        "date": "Apr 12 2020 06:34:23 PM"
+    },
+    {
+        "title": "Das Boot",
+        "upVotes": 57,
+        "date": "Oct 23 2020 03:23:41 PM"
+    }
+]
